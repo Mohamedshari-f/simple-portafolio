@@ -26,9 +26,7 @@ function Preview() {
         {/* Event 3 */}
         <div className="bg-white shadow-lg p-4 rounded">
           <img src={eventThree} alt="Event 3" className="w-full h-64 object-cover rounded"/>
-          <p className="text-center text-sm mt-2 text-gray-700">
-            Town-Hall Meeting with H.E Hassan Sheikh
-          </p>
+          <p className="text-center text-sm mt-2 text-gray-700 text-5xl font-semibold"> Lorem ipsum dolor sit amet. </p>
         </div>
       </div>
 
